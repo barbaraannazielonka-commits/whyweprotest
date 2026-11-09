@@ -1,0 +1,6 @@
+{
+  "name": "WHY WE PROTEST – Understanding the Forces Behind Social Change",
+  "description": "An interactive simulation game for Nannestad High School- Barbara Anna Zielonka. Explore how grievances, power, organization, and solidarity interact to drive social change.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
